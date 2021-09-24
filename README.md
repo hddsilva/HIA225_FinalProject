@@ -7,3 +7,7 @@ Mock hospital readmission data was generated in R, and analyzed in Python.
 
 
 ## Process
+![alt text](https://github.com/hddsilva/HIA225_FinalProject/blob/main/Part_1.png?raw=true)
+![alt text](https://github.com/hddsilva/HIA225_FinalProject/blob/main/Part_2.png?raw=true)
+![alt text](https://github.com/hddsilva/HIA225_FinalProject/blob/main/Part_3.png?raw=true)
+![alt text](https://github.com/hddsilva/HIA225_FinalProject/blob/main/Part_4.png?raw=true)
